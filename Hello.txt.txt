@@ -4,3 +4,5 @@ This is my first Git project.
 Hello Git
 My first Git project
 I do make change 4
+63d95b9 (HEAD -> main) Make change 2 done --> local repo points here
+ad028cb (origin/main) modified text --> remote repo points here
